@@ -1,41 +1,40 @@
 ---
 layout: post
-title: Introduction
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+### Who am i?
+I am a grad student of Inchon National University
 
------
+### Research Interest
+Computational Neuroscience,Machine Learning
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
+### Education
+Master Course 2019.09~
 
-There are currently three themes built on Poole:
+- Electronic Engineering (INU)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-* [Enfield](http://enfield.getpoole.com)
+Bachelor Course ~2019.07
 
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
+- Major in Computer Science (INU)
 
-### What's included
+- Minor in Nano-Bio Eng
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
+### Professional Experience
 
-* Complete Jekyll setup included (layouts, config, [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and [example page]({{ site.baseurl }}/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Jekyll's built-in support for Rouge
+- Sergeant, Republic of Korea Navy, July. 2013 - June. 2015 
 
-Additional features are available in individual themes.
+### Award
+INU Cody Challenge 2016 Matlab
 
-### Browser support
+2019 Korean Computational Neuroscience Winter School - Excellence Award
 
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+### Publications
+W. Noh, S. Pak, G. Choi, S. Yang and S. Yang, [Transient Potassium Channels: Therapeutic Targets for Brain Disorders](https://www.frontiersin.org/articles/10.3389/fncel.2019.00265/full), Frontiers in Cellular Neuroscience, June 2019.
 
-### Download
 
-These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
+### Contact
+Department of Electronics Engineering
 
-Thanks!
+Incheon National University
+
+119 Academy-ro, Yeonsu-gu, Incheon 22012, Korea
