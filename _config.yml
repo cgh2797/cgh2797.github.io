@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               GChoi
-tagline:             Geunho Choi
+#tagline:             Geunho Choi
 url:                 http://cgh2797.github.io
 paginate:            1
 baseurl:             ""
