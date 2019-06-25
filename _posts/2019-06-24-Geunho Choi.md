@@ -3,7 +3,7 @@ layout: post
 ---
 
 ### Who am i?
-I am a grad student of Incheon National University
+I am a grad student of Incheon National University (INU)
 
 ### Research Interest
 Computational Neuroscience, Machine Learning
@@ -15,9 +15,7 @@ Master Course 2019.09~
 
 Bachelor Course ~2019.07
 
-- Major in Computer Science (INU)
-
-- Minor in Nano-Bio Eng
+- Major in Computer Science, Minor in Nano-Bio Eng (INU)
 
 ### Professional Experience
 
