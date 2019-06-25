@@ -4,7 +4,7 @@ layout: post
 
 ### Who am i?
 <img src="https://github.com/cgh2797/cgh2797.github.io/blob/master/_posts/gchoi.jpg" width="30%">
-I am a grad student of Inchon National University
+I am a grad student of Incheon National University
 
 ### Research Interest
 Computational Neuroscience,Machine Learning
