@@ -34,7 +34,9 @@ W. Noh, S. Pak, G. Choi, S. Yang and S. Yang, [Transient Potassium Channels: The
 
 ### Links
 [twitter](https://twitter.com/inu_cgh)
+
 [github](https://github.com/cgh2797)
+
 [Brain & Information Lab](http://brain.inu.ac.kr/)
 
 ### Contact
