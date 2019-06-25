@@ -36,7 +36,7 @@ W. Noh, S. Pak, G. Choi, S. Yang and S. Yang, [Transient Potassium Channels: The
 
 [Brain & Information Lab](http://brain.inu.ac.kr/)
 
-[Neural Computation](https://www.mitpressjournals.org/loi/neco)
+[Nature Neuroscience](https://www.nature.com/neuro/)
 
 ### Contact
 Department of Electronics Engineering
