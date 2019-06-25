@@ -3,7 +3,6 @@ layout: post
 ---
 
 ### Who am i?
-#![Image](https://github.com/cgh2797/cgh2797.github.io/blob/master/_posts/gchoi.jpg)
 I am a grad student of Incheon National University
 
 ### Research Interest
