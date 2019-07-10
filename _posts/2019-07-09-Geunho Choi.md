@@ -16,7 +16,7 @@ Master Course 2019.09~
 
 - Electronic Engineering (INU)
 
-Bachelor Course ~2019.08
+Bachelor Course 2013.03 - 2019.08
 
 - Major in Computer Science, Minor in Nano-Bio Eng (INU)
 
