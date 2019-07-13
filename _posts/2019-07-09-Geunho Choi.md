@@ -44,10 +44,7 @@ W. Noh, S. Pak, G. Choi, S. Yang and S. Yang, [Transient Potassium Channels: The
 [Neural Computation](https://www.mitpressjournals.org/loi/neco)
 
 ### Contact
-Department of Electronics Engineering
-
-Incheon National University
-
-119 Academy-ro, Yeonsu-gu, Incheon 22012, Korea
-
+Department of Electronics Engineering  
+Incheon National University  
+119 Academy-ro, Yeonsu-gu, Incheon 22012, Korea  
 E-mail : cgh2797 [at] naver.com
