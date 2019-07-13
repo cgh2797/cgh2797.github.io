@@ -12,14 +12,11 @@ My research is to improve artificial intelligence through mathematical and neuro
 keyword : Computational Neuroscience, Machine Learning
 
 ### Education
-Master Course 2019.09~
-
-- Electronic Engineering (INU)
-
+Master Course 2019.09~  
+- Electronic Engineering (INU)  
 Advisor : [yongseok yoo](https://scholar.google.co.kr/citations?user=4H5q0dEAAAAJ&hl=en)
 
-Bachelor Course 2013.03 - 2019.08
-
+Bachelor Course 2013.03 - 2019.08  
 - Major in Computer Science, Minor in Nano-Bio Eng (INU)
 
 ### Professional Experience
