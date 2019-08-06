@@ -7,7 +7,7 @@ I am a grad student of Incheon National University (INU)
 
 ### Research Interest
 
-My research is to improve artificial intelligence through mathematical and neuroscientific analyzes.
+My research is to improve artificial intelligence through mathematical and neuroscientific analysis.
 
 keyword : Computational Neuroscience, Machine Learning
 
