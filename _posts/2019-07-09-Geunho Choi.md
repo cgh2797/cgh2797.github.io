@@ -8,9 +8,17 @@ Bachelor Course 2013.03 - 2019.08
 
 - Major in Computer Science, Minor in Nano-Bio Eng (INU)
 
+### Updates
+
+My current interests are in data science and NLU(Natural Language Understanding), Multimodal Deep Learning.
+
+Recently, I joined a government-funded program on developing big data platforms at BIT Academy located in Seoul, Korea.
+
 ### Professional Experience
 
 - Sergeant, Republic of Korea Navy, July. 2013 - June. 2015 
+
+
 
 ### Award
 INU Cody Challenge 2016 Matlab
