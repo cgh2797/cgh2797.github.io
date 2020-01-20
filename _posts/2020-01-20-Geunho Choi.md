@@ -19,7 +19,7 @@ Recently, I joined a government-funded program on developing big data platforms 
 - Research Assistant, Brain Information Lab @ Incheon National University. May. 2018 - November. 2019  
   Advisor : prof. yongseok yoo
   
--Research Assistant, Brain engineering Lab @ Incheon National University. July. 2017 - May. 2018
+- Research Assistant, Brain engineering Lab @ Incheon National University. July. 2017 - May. 2018
 
 - Sergeant, Republic of Korea Navy, July. 2013 - June. 2015 
 
