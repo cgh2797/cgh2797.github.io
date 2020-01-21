@@ -17,7 +17,7 @@ Recently, I joined a government-funded program on developing big data platforms 
 ### Professional Experience
 
 - Research Assistant - Brain Information Lab @ Incheon National University. May. 2018 - November. 2019  
-  Focus of Study : computational neuroscience, machine learning
+  Focus of Study : computational neuroscience, machine learning   
   Advisor : prof. yongseok yoo
   
 - Research Assistant - Brain Engineering Lab @ Incheon National University. July. 2017 - May. 2018
