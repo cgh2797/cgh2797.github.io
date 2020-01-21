@@ -20,7 +20,7 @@ Recently, I joined a government-funded program on developing big data platforms 
   Focus of Study : computational neuroscience, machine learning   
   Advisor : prof. yongseok yoo
   
-- Research Assistant - Brain Engineering Lab @ Incheon National University. July. 2017 - May. 2018
+- Research Assistant - Brain Engineering Lab @ Incheon National University. July. 2017 - May. 2018   
   Focus of Study : learning and memory, brain diseases  
   
 - Sergeant, Republic of Korea Navy, July. 2013 - June. 2015 
