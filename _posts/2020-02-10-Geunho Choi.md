@@ -10,7 +10,7 @@ Bachelor Course 2013.03 - 2019.08
 
 ### Updates
 
-My current interests are in machine learning, computational neuroscience.
+My current interests are in machine learning, computational neuroscience, NLP.
 
 Recently, I joined a government-funded program on developing big data platforms at BIT Academy located in Seoul, Korea.
 
