@@ -8,11 +8,9 @@ Bachelor Course 2013.03 - 2019.08
 
 - Major in Computer Science, Minor in Nano-Bio Eng (INU)
 
-### Updates
+### Research interest
 
 My current interests are in machine learning, computational neuroscience, NLP(natural language processing).
-
-Recently, I joined a government-funded program on developing big data platforms at BIT Academy located in Seoul, Korea.
 
 ### Professional Experience
 
