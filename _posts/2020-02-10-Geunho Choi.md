@@ -8,9 +8,9 @@ Bachelor Course 2013.03 - 2019.08
 
 - Major in Computer Science, Minor in Nano-Bio Eng (INU)
 
-### Research interest
+### Research Interest
 
-My current interests are in machine learning, computational neuroscience, NLP(natural language processing).
+My Research interests are in machine learning, computational neuroscience, NLP(natural language processing).
 
 ### Professional Experience
 
