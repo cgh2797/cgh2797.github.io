@@ -12,8 +12,6 @@ Bachelor Course 2013.03 - 2019.08
 
 My Research interests are in machine learning, computational neuroscience, NLP(natural language processing).
 
-### Technical bases
-
 ### Professional Experience
 
 - Research Assistant - Brain Information Lab @ Incheon National University. May. 2018 - November. 2019  
