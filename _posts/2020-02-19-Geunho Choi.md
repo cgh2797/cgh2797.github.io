@@ -12,6 +12,8 @@ Bachelor Course 2013.03 - 2019.08
 
 My Research interests are in machine learning, computational neuroscience, NLP(natural language processing).
 
+### Technical bases
+
 ### Professional Experience
 
 - Research Assistant - Brain Information Lab @ Incheon National University. May. 2018 - November. 2019  
@@ -22,6 +24,21 @@ My Research interests are in machine learning, computational neuroscience, NLP(n
   Focus of Study : learning and memory, brain diseases  
   
 - Sergeant, Republic of Korea Navy, July. 2013 - June. 2015 
+
+### Programming Skills
+- Matlab : data preprocess, biomedical data analysis, neural data analysis, Differential equation(Integrate-and-Fire model model)
+
+- python : pandas, numpy, scikit-learn, tensorflow
+
+- R : data analysis
+
+- Hadoop_eco_system : hortonworks, cloudera
+
+- C : basic programming
+
+- JAVA : basic programming
+
+
 
 
 
