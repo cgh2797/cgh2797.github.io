@@ -28,7 +28,7 @@ My Research interests are in machine learning, computational neuroscience, NLP(n
 ### Programming Skills
 - Matlab : data preprocess, biomedical data analysis, neural data analysis, Differential equation(Integrate-and-Fire model model)
 
-- python : pandas, numpy, scikit-learn, tensorflow
+- python : data analysis(pandas, numpy), machine-learning(scikit-learn, tensorflow)
 
 - R : data analysis
 
