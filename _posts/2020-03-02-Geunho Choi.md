@@ -10,7 +10,7 @@ Bachelor Course 2013.03 - 2019.08
 
 ### Research Interest
 
-My Research interests are in machine learning, computational neuroscience, NLP(natural language processing).
+My Research interests are in machine learning, bioinformatics, NLP(natural language processing).
 
 ### Professional Experience
 
