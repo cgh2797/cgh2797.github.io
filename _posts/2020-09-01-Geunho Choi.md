@@ -14,7 +14,7 @@ My Research interests are in machine learning, NLP(natural language processing).
 
 ### Professional Experience
 
-- Researcher - Alllive healthcare. AI Lab. June. 2020 - 
+- Researcher - AI Lab @ Alllive healthcare. June. 2020 - 
 
 - Research Assistant - Brain Information Lab @ Incheon National University. May. 2018 - November. 2019  
   Focus of Study : computational neuroscience, machine learning   
@@ -28,7 +28,7 @@ My Research interests are in machine learning, NLP(natural language processing).
 ### Programming Skills
 - Matlab : data preprocess, biomedical data analysis, neural data analysis, Differential equation(Integrate-and-Fire model model)
 
-- python : data analysis(pandas, numpy), machine-learning(scikit-learn, tensorflow, keras), Drug discovery(Rdkit)
+- python : data analysis(pandas, numpy), machine-learning(scikit-learn, tensorflow, keras), Drug discovery(rdkit)
 
 - R : data analysis
 
