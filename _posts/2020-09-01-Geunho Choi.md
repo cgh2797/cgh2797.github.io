@@ -26,9 +26,10 @@ My Research interests are in machine learning, NLP(natural language processing).
 - Sergeant, Republic of Korea Navy, July. 2013 - June. 2015 
 
 ### Programming Skills
-- Matlab : data preprocess, biomedical data analysis, neural data analysis, Differential equation(Integrate-and-Fire model model)
 
-- python : data analysis(pandas, numpy), machine-learning(scikit-learn, tensorflow, keras), Drug discovery(rdkit)
+- python : data analysis(pandas, numpy), machine-learning(scikit-learn, tensorflow, keras), drug discovery(rdkit)
+
+- Matlab : biomedical data analysis, neural data analysis, Differential equation(Integrate-and-Fire model)
 
 - R : data analysis
 
