@@ -33,8 +33,6 @@ My Research interests are in machine learning, NLP(natural language processing).
 
 - R : data analysis
 
-- Hadoop_eco_system : hortonworks, cloudera
-
 - C : basic programming
 
 - JAVA : basic programming
