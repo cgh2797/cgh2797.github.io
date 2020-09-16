@@ -27,7 +27,7 @@ My Research interests are in machine learning, NLP(natural language processing).
 
 ### Programming Skills
 
-- python : data analysis(pandas, numpy), machine-learning(scikit-learn, tensorflow, keras), drug discovery(rdkit)
+- python : data analysis(pandas, numpy), machine-learning(scikit-learn, tensorflow, keras, pytorch), drug discovery(rdkit)
 
 - Matlab : biomedical data analysis, neural data analysis, Differential equation(Integrate-and-Fire model)
 
