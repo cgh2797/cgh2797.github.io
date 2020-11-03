@@ -16,7 +16,7 @@ My Research interests are in machine learning, NLP(natural language processing).
 
 - Researcher - AI Lab @ Alllive healthcare. June. 2020 - 
 
-- Research Assistant - Brain Information Lab @ Incheon National University. May. 2018 - November. 2019  
+- Research Assistant - Brain Information Lab @ Incheon National University. May. 2018 - August. 2019  
   Focus of Study : computational neuroscience, machine learning   
   Advisor : prof. yongseok yoo
   
