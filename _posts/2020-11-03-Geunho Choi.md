@@ -3,10 +3,10 @@ layout: post
 ---
 
 ### Education
-
+Incheon National University
 Bachelor Course 2013.03 - 2019.08  
 
-- Major in Computer Science, Minor in Nano-Bio Eng (INU)
+- Major in Computer Science, Minor in Nano-Bio Eng 
 
 ### Research Interest
 
