@@ -14,9 +14,9 @@ My Research interests are in machine learning for healthcare, NLP(natural langua
 
 ### Professional Experience
 
-- Researcher - AI Lab @ Alllive healthcare. June. 2020 -   
- DB collection and pre-processing (Pubchem, ChEMBL)   
+- Researcher - AI Lab @ Alllive healthcare. June. 2020 -      
  AI based drug discovery (The only AI developer on the team)  
+ DB collection and pre-processing (Pubchem, ChEMBL)   
  Drug generative model, Drug screening model, Toxicity prediction model    
 
 - Research Assistant - Brain Information Lab @ Incheon National University. May. 2018 - August. 2019  
